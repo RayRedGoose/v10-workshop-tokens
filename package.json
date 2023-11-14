@@ -1,0 +1,37 @@
+{
+  "name": "v10-tokens-wsh",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@emotion/react": "11.11.0",
+    "@workday/canvas-accent-icons-web": "3.0.9",
+    "@workday/canvas-kit-labs-react": "10.0.0",
+    "@workday/canvas-kit-preview-react": "10.0.0",
+    "@workday/canvas-kit-react-fonts": "10.0.0",
+    "@workday/canvas-kit-styling": "10.0.0",
+    "@workday/canvas-system-icons-web": "3.0.15",
+    "@workday/canvas-tokens-web": "1.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "typescript": "3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
